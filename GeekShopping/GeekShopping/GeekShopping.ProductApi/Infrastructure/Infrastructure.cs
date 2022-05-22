@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using GeekShopping.ProductApi.Config;
 using GeekShopping.ProductApi.MappingProfile;
 using GeekShopping.ProductApi.Model.Context;
 using GeekShopping.ProductApi.Repository;

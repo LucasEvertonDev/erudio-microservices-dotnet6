@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "daiiyeTNqm/ZlQb8wVzW51IC1UfEpYN9IOytAJQ/OpM=",
+  "Hash": "bQEikgR/yjA8klfKaPGzoxgBNg9v6AXszpqA8JtiHNs=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\lcsev\\source\\repos\\erudio-microservices-dotnet6\\GeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lcsev\\source\\repos\\erudio-microservices-dotnet6\\GeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\lcsev\\source\\repos\\erudio-microservices-dotnet6\\GeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lcsev\\source\\repos\\erudio-microservices-dotnet6\\GeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/geek_shopping.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
     },
     {
       "Identity": "C:\\Users\\lcsev\\source\\repos\\erudio-microservices-dotnet6\\GeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\site.js",
